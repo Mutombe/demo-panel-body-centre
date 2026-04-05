@@ -1,1 +1,0 @@
-# demo-panel-body-centre
